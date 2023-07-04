@@ -3,4 +3,6 @@ print('Hello World')
 print('Changed')
 
 def is_prime(): 
-    pass        
+    pass   
+
+print(is_prime)
