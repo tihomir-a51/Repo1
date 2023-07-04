@@ -4,5 +4,3 @@ print('Changed')
 
 def is_prime(): 
     pass   
-
-print(is_prime)
